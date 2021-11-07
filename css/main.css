@@ -3,6 +3,7 @@ body {
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  background-color: #E5E5E5;
 }
 
 * ::after, *::before {
