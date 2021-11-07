@@ -373,4 +373,11 @@ template {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.header div {
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 18px;
+  margin-left: 9px;
+}
 /*# sourceMappingURL=main.css.map */
